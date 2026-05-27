@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-27T14:48:57.150Z",
+  "savedAt": "2026-05-27T16:01:10.189Z",
   "groups": [
     {
       "id": "7748af07-7da7-4e3e-9415-d5b2fbd867f6",
@@ -17,7 +17,18 @@
       "color": "#d97706"
     }
   ],
-  "tickets": [],
+  "tickets": [
+    {
+      "id": "4fb65e8d-d3d9-4ae5-9bbc-e9a83f098d9f",
+      "title": "US001 - Persona: Student",
+      "description": "As a Student, I want to order food on my phone while walking from class, so that I can reduce the time spent waiting in the 20-minute cafeteria queue.\nAcceptance Criteria:\n- Verify that a student can browse the menu and place a food order via the mobile interface.\n- Verify that a successfully placed order is transmitted instantly to the kitchen display screen.",
+      "groupId": "74f93a02-5d56-4e51-a7f2-c4267eb53225",
+      "status": "todo",
+      "type": "User Story",
+      "priority": "Medium",
+      "owner": "Khang Danh"
+    }
+  ],
   "analysis": {
     "ambiguity1": "\"Kitchen screen showing orders\": Vague because it lacks UI/functional details (e.g., chronological sorting, how to clear completed orders).",
     "ambiguity2": "\"Offline sync after 10 mins\": Vague because it doesn't define data conflict resolution (e.g., handling orders placed while the kitchen was offline).",
