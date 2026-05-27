@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-27T16:03:50.788Z",
+  "savedAt": "2026-05-27T16:05:04.237Z",
   "groups": [
     {
       "id": "7748af07-7da7-4e3e-9415-d5b2fbd867f6",
@@ -46,6 +46,16 @@
       "status": "review",
       "type": "User Story",
       "priority": "High",
+      "owner": "Khang Danh"
+    },
+    {
+      "id": "b29f7a6f-cb9c-49b8-ac16-221e61f5cb8a",
+      "title": "US004 - Persona: Administrator/Staff",
+      "description": "As a Chef, I want to mark any menu item as \"Sold Out\" instantly from the kitchen screen, so that students cannot keep ordering items we have run out of.\nAcceptance Criteria:\n- Verify that the Chef can select an item and toggle its status to \"Sold Out\" on the kitchen display.\n- Verify that the status updates instantly on the student-facing app, blocking further orders for that item.",
+      "groupId": "74f93a02-5d56-4e51-a7f2-c4267eb53225",
+      "status": "done",
+      "type": "User Story",
+      "priority": "Medium",
       "owner": "Khang Danh"
     }
   ],
