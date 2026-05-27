@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-27T15:29:59.966Z",
+  "savedAt": "2026-05-27T15:35:01.374Z",
   "groups": [
     {
       "id": "48e1443e-be85-47da-b564-f17bf50e6f8b",
@@ -23,7 +23,7 @@
       "title": "US001 - Persona: Student",
       "description": "User Story: As a Student, I want to visually drag and drop classes into a calendar interface, so that I can easily see if the courses fit into my schedule without dealing with an ugly catalog.\nAcceptance Criteria:\n- Verify that the user can select a course from the catalog and drag it onto a calendar grid.\n- Verify that dropping a course onto a specific time slot renders the course visually on the calendar.\n- Verify that the calendar UI updates instantly without requiring a full page reload.",
       "groupId": "69ffff8a-adca-42c1-85a9-8fa980b55787",
-      "status": "todo",
+      "status": "progress",
       "type": "User Story",
       "priority": "Medium",
       "owner": "Khang Danh"
@@ -47,6 +47,16 @@
       "type": "User Story",
       "priority": "Medium",
       "owner": ""
+    },
+    {
+      "id": "87bebf91-7c1a-4f38-a081-c681ffa1299a",
+      "title": "US004 - Persona: Administrator/Staff",
+      "description": "User Story: As an Advisor, I want to manually override prerequisite restrictions for a student with special permission, so that they can register for a required course.\nAcceptance Criteria:\n- Verify Advisors can access and apply an \"Override\" option on a blocked course.\n- Verify the system allows the student to add the course after the override.\n- Verify the advisor must enter a reason before confirming.",
+      "groupId": "48e1443e-be85-47da-b564-f17bf50e6f8b",
+      "status": "progress",
+      "type": "User Story",
+      "priority": "High",
+      "owner": "Khang Danh"
     }
   ],
   "analysis": {
