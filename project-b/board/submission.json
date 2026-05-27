@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-27T15:48:05.920Z",
+  "savedAt": "2026-05-27T15:49:39.655Z",
   "groups": [
     {
       "id": "7302e223-8f00-4719-bcde-d502c8043e71",
@@ -36,6 +36,16 @@
       "status": "progress",
       "type": "User Story",
       "priority": "High",
+      "owner": "Khang Danh"
+    },
+    {
+      "id": "bcd6d95b-07ed-473d-ad3c-dc1d204c09f2",
+      "title": "US003 - Persona: Student",
+      "description": "As a Student, I want to select an official Safe Exchange Zone before starting a chat with a seller, so that I can ensure my physical safety during meetups.\n\nAcceptance Criteria:\n- Verify that the app forces the user to select a designated Safe Exchange Zone (e.g., library lobby) before opening the chat interface.\n- Verify that the selected safe zone location is displayed clearly inside the chat window for both users.",
+      "groupId": "7302e223-8f00-4719-bcde-d502c8043e71",
+      "status": "review",
+      "type": "User Story",
+      "priority": "Medium",
       "owner": "Khang Danh"
     }
   ],
