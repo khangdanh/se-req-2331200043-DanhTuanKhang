@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-27T15:38:12.268Z",
+  "savedAt": "2026-05-27T15:40:10.786Z",
   "groups": [
     {
       "id": "48e1443e-be85-47da-b564-f17bf50e6f8b",
@@ -67,6 +67,36 @@
       "type": "User Story",
       "priority": "Medium",
       "owner": "Khang Danh"
+    },
+    {
+      "id": "aea50df5-a565-4f79-bc74-45e449e91252",
+      "title": "NFR Epic 1: Security: Only authorized users can access student schedules and all a",
+      "description": "Security: Only authorized users can access student schedules and all advisor overrides must be logged.",
+      "groupId": "69ffff8a-adca-42c1-85a9-8fa980b55787",
+      "status": "todo",
+      "type": "Epic",
+      "priority": "Medium",
+      "owner": ""
+    },
+    {
+      "id": "5addb9b3-adcd-4257-84d2-138b82613df8",
+      "title": "NFR Epic 2: Performance: The system should connect to the live database and quickl",
+      "description": "Performance: The system should connect to the live database and quickly update course availability.",
+      "groupId": "69ffff8a-adca-42c1-85a9-8fa980b55787",
+      "status": "todo",
+      "type": "Epic",
+      "priority": "Medium",
+      "owner": ""
+    },
+    {
+      "id": "3973a150-37cd-40b5-83b3-d39cb68d6dc0",
+      "title": "NFR Epic 3: Usability: The interface should support drag-and-drop scheduling and p",
+      "description": "Usability: The interface should support drag-and-drop scheduling and provide clear warnings for conflicts or preferences.",
+      "groupId": "69ffff8a-adca-42c1-85a9-8fa980b55787",
+      "status": "todo",
+      "type": "Epic",
+      "priority": "Medium",
+      "owner": ""
     }
   ],
   "analysis": {
