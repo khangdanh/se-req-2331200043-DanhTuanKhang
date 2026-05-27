@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-27T14:35:47.505Z",
+  "savedAt": "2026-05-27T14:36:50.635Z",
   "groups": [
     {
       "id": "7302e223-8f00-4719-bcde-d502c8043e71",
@@ -21,7 +21,7 @@
   "analysis": {
     "ambiguity1": "The 2% Transaction Fee: The Legal Team says the app cannot process payments (cash/Venmo only), so it is unclear how the app can track or collect a 2% fee.",
     "ambiguity2": "Barcode Scanning: The user wants to scan barcodes for book details, but it is vague where the book data (Title/Author) will be fetched from (e.g., an external API or bookstore database).",
-    "conflictSolution": "",
+    "conflictSolution": "The Conflict: The Student Union wants a 2% transaction fee, but the Legal Team forbids the app from handling any money.\nProposed Solution: Remove the transaction fee. Instead, charge a flat \"Listing Fee\" via an official university payment portal, or use a \"Freemium\" model where student clubs pay to pin ads on the app.",
     "nfr1": "",
     "nfr2": "",
     "nfr3": ""
