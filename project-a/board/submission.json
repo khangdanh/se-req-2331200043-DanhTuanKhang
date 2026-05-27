@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-27T14:33:05.294Z",
+  "savedAt": "2026-05-27T15:21:22.887Z",
   "groups": [
     {
       "id": "48e1443e-be85-47da-b564-f17bf50e6f8b",
@@ -17,7 +17,18 @@
       "color": "#d97706"
     }
   ],
-  "tickets": [],
+  "tickets": [
+    {
+      "id": "71c256cb-0f38-45fb-8deb-05cd5792f73b",
+      "title": "US001 - Persona: Student",
+      "description": "User Story: As a Student, I want to visually drag and drop classes into a calendar interface, so that I can easily see if the courses fit into my schedule without dealing with an ugly catalog.\nAcceptance Criteria:\n- Verify that the user can select a course from the catalog and drag it onto a calendar grid.\n- Verify that dropping a course onto a specific time slot renders the course visually on the calendar.\n- Verify that the calendar UI updates instantly without requiring a full page reload.",
+      "groupId": "69ffff8a-adca-42c1-85a9-8fa980b55787",
+      "status": "progress",
+      "type": "User Story",
+      "priority": "Medium",
+      "owner": "Khang Danh"
+    }
+  ],
   "analysis": {
     "ambiguity1": "“The system needs to stop them from even asking.” This is vague because it does not explain how the system should prevent prerequisite questions or what features should be used.",
     "ambiguity2": "“I want the app to warn me if I choose a class at 8:00 AM.” This is unclear because not all students dislike early classes, so the warning rule should be customizable.",
