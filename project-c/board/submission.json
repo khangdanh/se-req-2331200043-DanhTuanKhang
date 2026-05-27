@@ -1,0 +1,29 @@
+{
+  "savedAt": "2026-05-27T14:42:58.213Z",
+  "groups": [
+    {
+      "id": "7748af07-7da7-4e3e-9415-d5b2fbd867f6",
+      "name": "Blockers",
+      "color": "#2563eb"
+    },
+    {
+      "id": "74f93a02-5d56-4e51-a7f2-c4267eb53225",
+      "name": "Standard Work",
+      "color": "#059669"
+    },
+    {
+      "id": "0cbbc03f-01e6-4b4b-ba8a-46ebdabeb7e9",
+      "name": "Minors",
+      "color": "#d97706"
+    }
+  ],
+  "tickets": [],
+  "analysis": {
+    "ambiguity1": "\"Kitchen screen showing orders\": Vague because it lacks UI/functional details (e.g., chronological sorting, how to clear completed orders).",
+    "ambiguity2": "",
+    "conflictSolution": "",
+    "nfr1": "",
+    "nfr2": "",
+    "nfr3": ""
+  }
+}
