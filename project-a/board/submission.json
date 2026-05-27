@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-27T15:35:01.374Z",
+  "savedAt": "2026-05-27T15:38:12.268Z",
   "groups": [
     {
       "id": "48e1443e-be85-47da-b564-f17bf50e6f8b",
@@ -56,6 +56,16 @@
       "status": "progress",
       "type": "User Story",
       "priority": "High",
+      "owner": "Khang Danh"
+    },
+    {
+      "id": "b8c51fbe-f4f7-486a-a62f-7622318fcf30",
+      "title": "US005 - Persona: Administrator/Staff",
+      "description": "User Story: As an IT Security Officer, I want the system to log every manual prerequisite override, so that we have a complete trail for audit purposes.\nAcceptance Criteria:\n- Verify a log entry is automatically created upon every override.\n- Verify the log contains the timestamp, Advisor ID, Student ID, and course ID.\n- Verify standard users cannot modify or delete these logs.",
+      "groupId": "4c71437e-8591-4284-98e4-b8fdc92f30e2",
+      "status": "done",
+      "type": "User Story",
+      "priority": "Medium",
       "owner": "Khang Danh"
     }
   ],
