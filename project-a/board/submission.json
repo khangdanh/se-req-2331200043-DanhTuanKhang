@@ -1,0 +1,29 @@
+{
+  "savedAt": "2026-05-27T14:29:12.846Z",
+  "groups": [
+    {
+      "id": "48e1443e-be85-47da-b564-f17bf50e6f8b",
+      "name": "Blockers",
+      "color": "#2563eb"
+    },
+    {
+      "id": "69ffff8a-adca-42c1-85a9-8fa980b55787",
+      "name": "Standard Work",
+      "color": "#059669"
+    },
+    {
+      "id": "4c71437e-8591-4284-98e4-b8fdc92f30e2",
+      "name": "Minors",
+      "color": "#d97706"
+    }
+  ],
+  "tickets": [],
+  "analysis": {
+    "ambiguity1": "“The system needs to stop them from even asking.” This is vague because it does not explain how the system should prevent prerequisite questions or what features should be used.",
+    "ambiguity2": "",
+    "conflictSolution": "",
+    "nfr1": "",
+    "nfr2": "",
+    "nfr3": ""
+  }
+}
