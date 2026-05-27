@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-27T14:45:46.482Z",
+  "savedAt": "2026-05-27T14:48:57.150Z",
   "groups": [
     {
       "id": "7748af07-7da7-4e3e-9415-d5b2fbd867f6",
@@ -22,8 +22,8 @@
     "ambiguity1": "\"Kitchen screen showing orders\": Vague because it lacks UI/functional details (e.g., chronological sorting, how to clear completed orders).",
     "ambiguity2": "\"Offline sync after 10 mins\": Vague because it doesn't define data conflict resolution (e.g., handling orders placed while the kitchen was offline).",
     "conflictSolution": "Conflict: The Chef needs real-time stock control (\"Sold Out\"), while the Student wants a hard filter to completely hide allergen items. Completely hiding items can cause confusion if a student thinks a dish doesn't exist rather than just being unsafe or sold out.\nSolution: Do not completely hide the items. Gray out and disable allergen-containing dishes, label them with a clear \"Contains [Allergen]\" badge, and move them to the bottom of the menu.",
-    "nfr1": "",
-    "nfr2": "",
-    "nfr3": ""
+    "nfr1": "Security (Data Protection & Authentication): The system must securely authenticate students (e.g., via university login) and encrypt all transaction data and personal profiles to prevent unauthorized access and protect payment information.",
+    "nfr2": "Performance (Responsiveness): Must process phone orders on-the-go and reflect \"instant\" inventory updates.",
+    "nfr3": "Usability (Accessibility): Must feature strict, anxiety-reducing menu filtering for food allergies."
   }
 }
