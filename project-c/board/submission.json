@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-27T16:06:14.445Z",
+  "savedAt": "2026-05-27T16:06:57.799Z",
   "groups": [
     {
       "id": "7748af07-7da7-4e3e-9415-d5b2fbd867f6",
@@ -67,6 +67,36 @@
       "type": "User Story",
       "priority": "Medium",
       "owner": "Khang Danh"
+    },
+    {
+      "id": "2547a567-6b85-47f6-b077-3827276e7cd8",
+      "title": "NFR Epic 1: Security (Data Protection & Authentication): The system must securely ",
+      "description": "Security (Data Protection & Authentication): The system must securely authenticate students (e.g., via university login) and encrypt all transaction data and personal profiles to prevent unauthorized access and protect payment information.",
+      "groupId": "74f93a02-5d56-4e51-a7f2-c4267eb53225",
+      "status": "todo",
+      "type": "Epic",
+      "priority": "Medium",
+      "owner": ""
+    },
+    {
+      "id": "3426fd76-77c1-4b73-a817-575e885c6650",
+      "title": "NFR Epic 2: Performance (Responsiveness): Must process phone orders on-the-go and ",
+      "description": "Performance (Responsiveness): Must process phone orders on-the-go and reflect \"instant\" inventory updates.",
+      "groupId": "74f93a02-5d56-4e51-a7f2-c4267eb53225",
+      "status": "todo",
+      "type": "Epic",
+      "priority": "Medium",
+      "owner": ""
+    },
+    {
+      "id": "710bfa6b-6014-4707-8ed3-51ed239422fc",
+      "title": "NFR Epic 3: Usability (Accessibility): Must feature strict, anxiety-reducing menu ",
+      "description": "Usability (Accessibility): Must feature strict, anxiety-reducing menu filtering for food allergies.",
+      "groupId": "74f93a02-5d56-4e51-a7f2-c4267eb53225",
+      "status": "todo",
+      "type": "Epic",
+      "priority": "Medium",
+      "owner": ""
     }
   ],
   "analysis": {
