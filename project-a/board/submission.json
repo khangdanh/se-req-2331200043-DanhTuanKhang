@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-27T14:29:12.846Z",
+  "savedAt": "2026-05-27T14:30:16.644Z",
   "groups": [
     {
       "id": "48e1443e-be85-47da-b564-f17bf50e6f8b",
@@ -20,7 +20,7 @@
   "tickets": [],
   "analysis": {
     "ambiguity1": "“The system needs to stop them from even asking.” This is vague because it does not explain how the system should prevent prerequisite questions or what features should be used.",
-    "ambiguity2": "",
+    "ambiguity2": "“I want the app to warn me if I choose a class at 8:00 AM.” This is unclear because not all students dislike early classes, so the warning rule should be customizable.",
     "conflictSolution": "",
     "nfr1": "",
     "nfr2": "",
