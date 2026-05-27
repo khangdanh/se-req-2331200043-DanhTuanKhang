@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-27T15:49:39.655Z",
+  "savedAt": "2026-05-27T15:51:31.194Z",
   "groups": [
     {
       "id": "7302e223-8f00-4719-bcde-d502c8043e71",
@@ -46,6 +46,16 @@
       "status": "review",
       "type": "User Story",
       "priority": "Medium",
+      "owner": "Khang Danh"
+    },
+    {
+      "id": "f3e7c222-5150-428c-8a89-bed5613f8249",
+      "title": "US004 - Persona: Administrator/Staff",
+      "description": "As a Student Union Administrator, I want the system to calculate and track a 2% transaction fee for completed sales, so that we can fund campus club activities.\nAcceptance Criteria:\n- Verify that the system automatically calculates a 2% fee based on the final agreed sale price.\n- Verify that this fee is logged under the student's account balance as \"Pending Payment to Student Union\".\n- Verify that administrators can view a dashboard summarizing total fees collected/pending.",
+      "groupId": "45cd5299-00fd-44e3-b28c-c36434c13e62",
+      "status": "done",
+      "type": "User Story",
+      "priority": "High",
       "owner": "Khang Danh"
     }
   ],
