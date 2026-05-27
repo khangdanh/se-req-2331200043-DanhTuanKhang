@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-27T14:31:43.278Z",
+  "savedAt": "2026-05-27T14:33:05.294Z",
   "groups": [
     {
       "id": "48e1443e-be85-47da-b564-f17bf50e6f8b",
@@ -22,8 +22,8 @@
     "ambiguity1": "“The system needs to stop them from even asking.” This is vague because it does not explain how the system should prevent prerequisite questions or what features should be used.",
     "ambiguity2": "“I want the app to warn me if I choose a class at 8:00 AM.” This is unclear because not all students dislike early classes, so the warning rule should be customizable.",
     "conflictSolution": "User A (Registrar) wants students to be blocked from adding full classes, but User B (Head of Advising) wants students to plan courses 4 years ahead even when availability is unknown. Proposed solution: create two modes in the system: Planning mode: students can add any future course. Registration mode: students can only register for courses with available slots from the live database.\n",
-    "nfr1": "",
-    "nfr2": "",
-    "nfr3": ""
+    "nfr1": "Security: Only authorized users can access student schedules and all advisor overrides must be logged.",
+    "nfr2": "Performance: The system should connect to the live database and quickly update course availability.",
+    "nfr3": "Usability: The interface should support drag-and-drop scheduling and provide clear warnings for conflicts or preferences."
   }
 }
