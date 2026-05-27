@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-27T14:42:58.213Z",
+  "savedAt": "2026-05-27T14:44:41.691Z",
   "groups": [
     {
       "id": "7748af07-7da7-4e3e-9415-d5b2fbd867f6",
@@ -20,7 +20,7 @@
   "tickets": [],
   "analysis": {
     "ambiguity1": "\"Kitchen screen showing orders\": Vague because it lacks UI/functional details (e.g., chronological sorting, how to clear completed orders).",
-    "ambiguity2": "",
+    "ambiguity2": "\"Offline sync after 10 mins\": Vague because it doesn't define data conflict resolution (e.g., handling orders placed while the kitchen was offline).",
     "conflictSolution": "",
     "nfr1": "",
     "nfr2": "",
