@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-27T16:01:10.189Z",
+  "savedAt": "2026-05-27T16:02:28.614Z",
   "groups": [
     {
       "id": "7748af07-7da7-4e3e-9415-d5b2fbd867f6",
@@ -24,6 +24,16 @@
       "description": "As a Student, I want to order food on my phone while walking from class, so that I can reduce the time spent waiting in the 20-minute cafeteria queue.\nAcceptance Criteria:\n- Verify that a student can browse the menu and place a food order via the mobile interface.\n- Verify that a successfully placed order is transmitted instantly to the kitchen display screen.",
       "groupId": "74f93a02-5d56-4e51-a7f2-c4267eb53225",
       "status": "todo",
+      "type": "User Story",
+      "priority": "Medium",
+      "owner": "Khang Danh"
+    },
+    {
+      "id": "8f796dc2-7725-4c41-b063-e066b1a6bc70",
+      "title": "US002 - Persona: Student",
+      "description": "As a Student with allergies, I want to filter the entire menu by checking allergen options, so that I do not see items containing ingredients that give me anxiety.\nAcceptance Criteria:\n- Verify that selecting an allergen filter (e.g., \"No Peanuts\") immediately hides all matching items from the menu.\n- Verify that hidden items (like the peanut butter cookie) cannot be searched or ordered while the filter is active.",
+      "groupId": "74f93a02-5d56-4e51-a7f2-c4267eb53225",
+      "status": "progress",
       "type": "User Story",
       "priority": "Medium",
       "owner": "Khang Danh"
