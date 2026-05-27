@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-27T16:05:04.237Z",
+  "savedAt": "2026-05-27T16:06:14.445Z",
   "groups": [
     {
       "id": "7748af07-7da7-4e3e-9415-d5b2fbd867f6",
@@ -54,6 +54,16 @@
       "description": "As a Chef, I want to mark any menu item as \"Sold Out\" instantly from the kitchen screen, so that students cannot keep ordering items we have run out of.\nAcceptance Criteria:\n- Verify that the Chef can select an item and toggle its status to \"Sold Out\" on the kitchen display.\n- Verify that the status updates instantly on the student-facing app, blocking further orders for that item.",
       "groupId": "74f93a02-5d56-4e51-a7f2-c4267eb53225",
       "status": "done",
+      "type": "User Story",
+      "priority": "Medium",
+      "owner": "Khang Danh"
+    },
+    {
+      "id": "4530b487-32a9-45ac-8cb4-26590b1a67e9",
+      "title": "US005 - Persona: Administrator/Staff",
+      "description": "As a Cafeteria Manager, I want a dedicated screen in the kitchen that displays incoming orders in real-time, so that the staff can prepare food efficiently.\nAcceptance Criteria:\n- Verify that the kitchen screen dynamically populates new orders as they are paid for by students.\n- Verify that orders are displayed chronologically with clear details (items, quantities, and customizations).",
+      "groupId": "7748af07-7da7-4e3e-9415-d5b2fbd867f6",
+      "status": "progress",
       "type": "User Story",
       "priority": "Medium",
       "owner": "Khang Danh"
