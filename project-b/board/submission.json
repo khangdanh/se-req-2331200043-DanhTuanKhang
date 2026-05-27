@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-27T15:51:31.194Z",
+  "savedAt": "2026-05-27T15:53:18.602Z",
   "groups": [
     {
       "id": "7302e223-8f00-4719-bcde-d502c8043e71",
@@ -56,6 +56,16 @@
       "status": "done",
       "type": "User Story",
       "priority": "High",
+      "owner": "Khang Danh"
+    },
+    {
+      "id": "d7f124c0-2357-473f-befc-6a919679d8ea",
+      "title": "US005 - Persona: Administrator/Staff",
+      "description": "As a Campus Security Admin, I want to restrict account creation to valid university email addresses, so that unauthorized outsiders cannot access the marketplace.\nAcceptance Criteria:\n- Verify that registration is blocked if the user enters an email that does not end with a valid school domain (e.g., `.edu`).\n- Verify that a verification link is sent to the provided `.edu` email to confirm ownership before activating the account.",
+      "groupId": "7302e223-8f00-4719-bcde-d502c8043e71",
+      "status": "todo",
+      "type": "User Story",
+      "priority": "Medium",
       "owner": "Khang Danh"
     }
   ],
