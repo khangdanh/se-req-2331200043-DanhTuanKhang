@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-27T15:46:21.900Z",
+  "savedAt": "2026-05-27T15:48:05.920Z",
   "groups": [
     {
       "id": "7302e223-8f00-4719-bcde-d502c8043e71",
@@ -26,6 +26,16 @@
       "status": "todo",
       "type": "User Story",
       "priority": "Medium",
+      "owner": "Khang Danh"
+    },
+    {
+      "id": "470c0423-73eb-4d9c-9ebc-c6319e7ae5f0",
+      "title": "US002 - Persona: Student",
+      "description": "As a Student, I want to list my items for auction instead of a fixed price, so that I can sell them to the highest bidder before the semester ends.\nAcceptance Criteria:\n- Verify that sellers can select \"Auction\" as a listing type and set a starting price and end date.\n- Verify that buyers can place a bid higher than the current highest bid.\n- Verify that the system automatically closes the auction at the specified end date and notifies the winner.",
+      "groupId": "fce24e87-ec81-4339-a304-69361a32760d",
+      "status": "progress",
+      "type": "User Story",
+      "priority": "High",
       "owner": "Khang Danh"
     }
   ],
