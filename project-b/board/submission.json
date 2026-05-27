@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-27T15:53:18.602Z",
+  "savedAt": "2026-05-27T15:54:10.586Z",
   "groups": [
     {
       "id": "7302e223-8f00-4719-bcde-d502c8043e71",
@@ -67,6 +67,36 @@
       "type": "User Story",
       "priority": "Medium",
       "owner": "Khang Danh"
+    },
+    {
+      "id": "e43434ef-b4c2-48ba-be09-d6c7d0a93ff5",
+      "title": "NFR Epic 1: Security (Access Control): Restrict registration exclusively to valid ",
+      "description": "Security (Access Control): Restrict registration exclusively to valid \".edu\" email addresses.",
+      "groupId": "fce24e87-ec81-4339-a304-69361a32760d",
+      "status": "todo",
+      "type": "Epic",
+      "priority": "Medium",
+      "owner": ""
+    },
+    {
+      "id": "de681867-957a-4ca0-ba2d-9a8946a0bd65",
+      "title": "NFR Epic 2: Safety (Operational Constraint): Force users to select a \"Safe Exchang",
+      "description": "Safety (Operational Constraint): Force users to select a \"Safe Exchange Zone\" before opening the chat.",
+      "groupId": "fce24e87-ec81-4339-a304-69361a32760d",
+      "status": "todo",
+      "type": "Epic",
+      "priority": "Medium",
+      "owner": ""
+    },
+    {
+      "id": "82a765eb-e61d-45c0-9051-a4a09e743a49",
+      "title": "NFR Epic 3: Usability: Integrate camera hardware for quick, automatic barcode scan",
+      "description": "Usability: Integrate camera hardware for quick, automatic barcode scanning.",
+      "groupId": "fce24e87-ec81-4339-a304-69361a32760d",
+      "status": "todo",
+      "type": "Epic",
+      "priority": "Medium",
+      "owner": ""
     }
   ],
   "analysis": {
