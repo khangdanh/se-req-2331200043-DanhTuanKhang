@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-27T15:21:22.887Z",
+  "savedAt": "2026-05-27T15:26:55.407Z",
   "groups": [
     {
       "id": "48e1443e-be85-47da-b564-f17bf50e6f8b",
@@ -23,9 +23,19 @@
       "title": "US001 - Persona: Student",
       "description": "User Story: As a Student, I want to visually drag and drop classes into a calendar interface, so that I can easily see if the courses fit into my schedule without dealing with an ugly catalog.\nAcceptance Criteria:\n- Verify that the user can select a course from the catalog and drag it onto a calendar grid.\n- Verify that dropping a course onto a specific time slot renders the course visually on the calendar.\n- Verify that the calendar UI updates instantly without requiring a full page reload.",
       "groupId": "69ffff8a-adca-42c1-85a9-8fa980b55787",
-      "status": "progress",
+      "status": "todo",
       "type": "User Story",
       "priority": "Medium",
+      "owner": "Khang Danh"
+    },
+    {
+      "id": "d21277d3-697c-41b0-8d87-6564e3b0fc68",
+      "title": "US002 - Persona: Student",
+      "description": "User Story: As a Student, I want to receive an automated warning when I select a class that starts at 8:00 AM, so that I can avoid choosing courses where I might oversleep.\nAcceptance Criteria:\n- Verify that a warning notification/alert is displayed immediately when a user adds an 8:00 AM course to their roadmap or calendar.\n- Verify that the warning contains a clear message about the early start time.\n- Verify that the user can still proceed or dismiss the warnin",
+      "groupId": "4c71437e-8591-4284-98e4-b8fdc92f30e2",
+      "status": "todo",
+      "type": "User Story",
+      "priority": "High",
       "owner": "Khang Danh"
     }
   ],
