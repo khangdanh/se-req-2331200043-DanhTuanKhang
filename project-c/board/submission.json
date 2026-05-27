@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-27T16:02:28.614Z",
+  "savedAt": "2026-05-27T16:03:50.788Z",
   "groups": [
     {
       "id": "7748af07-7da7-4e3e-9415-d5b2fbd867f6",
@@ -36,6 +36,16 @@
       "status": "progress",
       "type": "User Story",
       "priority": "Medium",
+      "owner": "Khang Danh"
+    },
+    {
+      "id": "eb9de886-81c9-4184-b013-e9b67d9c2eed",
+      "title": "US003 - Persona: Student",
+      "description": "As a Student, I want to receive a push notification at 11:30 AM offering a discount on the daily special, so that I can save money on my lunch.\nAcceptance Criteria:\n- Verify that the system automatically triggers and delivers a push notification to students at exactly 11:30 AM.\n- Verify that clicking the notification opens the app and applies the discount to the daily special item.",
+      "groupId": "74f93a02-5d56-4e51-a7f2-c4267eb53225",
+      "status": "review",
+      "type": "User Story",
+      "priority": "High",
       "owner": "Khang Danh"
     }
   ],
