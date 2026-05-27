@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-27T15:26:55.407Z",
+  "savedAt": "2026-05-27T15:29:59.966Z",
   "groups": [
     {
       "id": "48e1443e-be85-47da-b564-f17bf50e6f8b",
@@ -37,6 +37,16 @@
       "type": "User Story",
       "priority": "High",
       "owner": "Khang Danh"
+    },
+    {
+      "id": "0be4f422-a168-4d92-983c-a36d5678d3ef",
+      "title": "US003 - Persona: Student",
+      "description": "User Story: As a Student, I want to draft a long-term roadmap for up to 4 years ahead, even if enrollment for future semesters is not yet open, so that I can plan my entire academic path early.\nAcceptance Criteria:\n- Verify that students can add placeholder or future courses to their roadmap beyond the current semester (up to 4 years).\n- Verify that the system distinguishes between \"live/open\" courses (which check for real-time capacity) and \"future planned\" courses",
+      "groupId": "69ffff8a-adca-42c1-85a9-8fa980b55787",
+      "status": "progress",
+      "type": "User Story",
+      "priority": "Medium",
+      "owner": ""
     }
   ],
   "analysis": {
